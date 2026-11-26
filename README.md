@@ -240,7 +240,7 @@ RevenueCat manages in-app subscriptions and reports the revenue behind them (MRR
 
 The reason to read RevenueCat through HeyMetra rather than through a server that only knows RevenueCat is everything else it can answer in the same breath:
 
-**Ads** — [Google Ads](https://github.com/zeisoft/google-ads-mcp)
+**Ads** — [Google Ads](https://github.com/zeisoft/google-ads-mcp) · [Meta](https://github.com/zeisoft/meta-ads-mcp)
 
 **Analytics** — [Google Analytics 4](https://github.com/zeisoft/google-analytics-4-mcp) · [Google Search Console](https://github.com/zeisoft/google-search-console-mcp) · [PostHog](https://github.com/zeisoft/posthog-mcp)
 
